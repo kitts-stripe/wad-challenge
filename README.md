@@ -10,7 +10,7 @@ Modify the script in index.html to correctly pass the user session to Stripe. We
 
 ## Helpful documentation
 
-This implementation uses a client-only model as [detailed here](https://stripe.com/docs/payments/checkout/client).
+This implementation uses a client-only model as [detailed here](https://stripe.com/docs/payments/checkout/client){:target="_blank"}.
 
 You'll probably want to use [this JS reference](https://stripe.com/docs/js/checkout/redirect_to_checkout) to help.
 
